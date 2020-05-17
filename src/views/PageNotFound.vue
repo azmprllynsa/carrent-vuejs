@@ -23,14 +23,14 @@ export default {
   h1 {
     text-align: center;
     letter-spacing: 20px;
-    color: #c82022;
+    color: #770b1e;
     font-size: 20em;
     margin: 0;
   }
   p {
     text-align: center;
     font-size: 2em;
-    color: #c8202378;
+    color: #990e1e;
   }
 }
 </style>

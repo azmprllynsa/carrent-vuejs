@@ -191,7 +191,7 @@ export default {
   .save {
     padding: 10px 20px;
     border: none;
-    background: #c82022;
+    background: #770b1e;
     color: #ffffff;
     border-radius: 3px;
   }

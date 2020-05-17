@@ -405,7 +405,7 @@ export default {
     .save {
       padding: 10px 20px;
       border: none;
-      background: #c82022;
+      background: #770b1e;
       color: #ffffff;
       border-radius: 3px;
     }
@@ -428,7 +428,7 @@ export default {
   display: inline-block;
   width: 250px;
   height: 50px;
-  background: #c82022;
+  background: #770b1e;
   outline: none;
   white-space: nowrap;
   -webkit-user-select: none;

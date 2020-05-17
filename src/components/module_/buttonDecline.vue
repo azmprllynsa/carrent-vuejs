@@ -12,7 +12,7 @@ export default {
 .acc {
     border: none;
     padding: 10px 20px;
-    background: #c82022;
+    background: #770b1e;
     color: white;
     margin: 5px;
 }

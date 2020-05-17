@@ -33,7 +33,7 @@ export default {
   width: 25px;
   height: 25px;
   border-radius: 50%;
-  background: #c82022;
+  background: #770b1e;
   cursor: pointer;
 }
 
@@ -41,7 +41,7 @@ export default {
   width: 25px;
   height: 25px;
   border-radius: 50%;
-  background: #c82022;
+  background: #770b1e;
   cursor: pointer;
 }
 </style>

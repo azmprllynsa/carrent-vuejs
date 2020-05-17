@@ -160,13 +160,13 @@ export default {
 }
 .alertdiv a{
   text-decoration: none;
-  color: #c82022;
+  color: #770b1e;
 }
 .color-green{
   border: 2px solid #12C200;
 }
 .color-red{
-  border: 2px solid #c82022;
+  border: 2px solid #770b1e;
 }
 .alert {
   font-size: 15px;
@@ -199,7 +199,7 @@ export default {
   position: relative;
   margin-top: 5px;
   font-size: 14px;
-  color: #c82022;
+  color: #770b1e;
   margin-bottom: 5px;
   height: 16px;
 }
@@ -230,7 +230,7 @@ export default {
   margin-bottom: 10px;
 }
 #button-success{
-  background: #c82022;
+  background: #770b1e;
   cursor: pointer;
 }
 .login{
@@ -256,7 +256,7 @@ export default {
   float: right;
   text-decoration: none;
   top: -3px;
-  color: #c82022;
+  color: #770b1e;
 }
 
 </style>

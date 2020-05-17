@@ -175,7 +175,7 @@ export default {
   float: right;
   text-decoration: none;
   top: -3px;
-  color: #c82022;
+  color: #770b1e;
 }
 .labelemail{
   font-size: 13px;
@@ -202,7 +202,7 @@ export default {
   position: relative;
   margin-top: 5px;
   font-size: 14px;
-  color: #c82022;
+  color: #770b1e;
   margin-bottom: 5px;
   height: 16px;
 }
@@ -215,7 +215,7 @@ export default {
 .checkbox a{
   position: absolute;
   right: 0;
-  color: #c82022;
+  color: #770b1e;
   text-decoration: none;
 }
 .login button{
@@ -232,7 +232,7 @@ export default {
   margin-bottom: 10px;
 }
 #button-success{
-  background: #c82022;
+  background: #770b1e;
   cursor: pointer;
 }
 .login{

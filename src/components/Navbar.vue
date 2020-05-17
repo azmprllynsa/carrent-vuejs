@@ -101,7 +101,7 @@ a {
   }
 }
 .navbarParent{
-  background-color: #c82022;
+  background-color: #770b1e;
   height: 70px;
   display: flex;
   position: fixed;

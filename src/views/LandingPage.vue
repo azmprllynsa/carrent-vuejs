@@ -133,7 +133,7 @@ export default {
     flex-direction: column;
     justify-content: center;
     .partnerText {
-      background-color: #c82022;
+      background-color: #770b1e;
       width: 100%;
       height: 70px;
       display: flex;
@@ -228,7 +228,7 @@ export default {
     }
   }
   .listCar {
-    background-color: #c82022;
+    background-color: #770b1e;
     width: 100%;
     height: 500px;
     display: flex;
@@ -271,7 +271,7 @@ export default {
     }
   }
   .bestProfile {
-    background-color: #c82022;
+    background-color: #770b1e;
     margin-top: 80px;
     width: 100%;
     height: 500px;

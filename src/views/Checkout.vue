@@ -252,7 +252,7 @@ export default {
               padding: 10px 20px;
               border-radius: 5px;
               width: 100%;
-              background: #c82022;
+              background: #770b1e;
               color: #ffffff;
               font-weight: 600;
             }

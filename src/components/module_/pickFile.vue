@@ -33,7 +33,7 @@ export default {
     display: inline-block;
     width: 250px;
     height: 50px;
-    background: #c82022;
+    background: #770b1e;
     outline: none;
     white-space: nowrap;
     -webkit-user-select: none;

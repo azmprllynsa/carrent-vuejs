@@ -180,7 +180,7 @@ export default {
   font-family: "Roboto", sans-serif;
   .info-user {
     display: flex;
-    background: #c82022;
+    background: #770b1e;
     padding: 16px;
     .image-user {
       display: flex;
