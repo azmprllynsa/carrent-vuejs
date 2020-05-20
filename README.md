@@ -1,3 +1,5 @@
+<h1 align="center">Carrent Frontend</h1>
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/azmprllynsa/carrent-vuejs)
 ![GitHub contributors](https://img.shields.io/github/contributors/azmprllynsa/carrent-vuejs)
 ![GitHub stars](https://img.shields.io/github/stars/azmprllynsa/carrent-vuejs?style=social)
@@ -14,9 +16,8 @@
 ## Table of Contents
 
 - [Features](#features)
-- [Requirements](#requirements)
-- [Usage](#usage-for-development)
-- [Create Environment Variable](#create-environment-variable)
+- [Prerequiste](#prerequiste)
+- [Installation](#installation)
 - [Screenshots](#screenshots)
 - [Related Project](#related-project-backend)
 - [Contributors](#contributors)
@@ -27,26 +28,27 @@
 - Users must sign up and sign in to make a transaction and see their profiles
 - And others
 
-## Requirements
+## Prerequiste
 
 - Node.js - Download and Install [Node.js](https://nodejs.org/en/).
 - Vue.js - Download and Install [Vue.js](https://vuejs.org/v2/guide/)
 
-## Usage for development
-
-1. Open your terminal or command prompt
-2. Type `git clone https://github.com/azmprllynsa/carrent-vuejs.git`
-3. Open the folder and type `npm install` for install dependencies
-4. Create Environment Variable [here](#create-environment-variable)
-5. Before run this, you must run backend first, [check here](#related-project-backend)
-6. Type `npm run serve` for run this app.
-
-## Create Environment Variable
-
+## Installation
+### Clone
+```
+$ git clone https://github.com/HiRahmat-Dev/carrent-api.git
+$ cd carrent-api
+$ npm install
+```
+### Create Environment Variable
 ```
 # Set API KEY
 VUE_APP_API=YOUR_HOST_URL
 VUE_APP_SECRET_KEY_TOKEN=YOUR_SECRET_KEY
+```
+### Start Development Server
+```
+$ npm run serve
 ```
 
 ## Screenshots
@@ -63,9 +65,11 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_SECRET_KEY
     <img width="430" src="./picture/carrent-seller-to-checkout.gif">
 </div>
 
+
 ## Related Project (Backend)
 
 * [`Backend Carrent`](https://github.com/azmprllynsa/carrent-API)
+
 
 ## Contributors
 <center>
@@ -110,3 +114,7 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_SECRET_KEY
     </tr>
   </table>
 </center>
+
+
+---
+Copyright © 2020 [Azmi Prilly Naisa](https://github.com/azmprllynsa/)
