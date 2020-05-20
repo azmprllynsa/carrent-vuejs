@@ -36,8 +36,8 @@
 ## Installation
 ### Clone
 ```
-$ git clone https://github.com/HiRahmat-Dev/carrent-api.git
-$ cd carrent-api
+$ git clone https://github.com/azmprllynsa/carrent-vuejs.git
+$ cd carrent-vuejs
 $ npm install
 ```
 ### Create Environment Variable
